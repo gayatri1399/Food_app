@@ -1,9 +1,23 @@
 {
-    "1": {
-        "Name": "G",
-        "Ph number": 1234567890,
-        "Email": "A@",
-        "Address": "Mah",
+    "lakhotiagayatri@gmail.com": {
+        "Name": "Gayatri",
+        "Ph number": 123456789,
+        "Email": "lakhotiagayatri@gmail.com",
+        "Address": "Bhopal",
         "Password": "1234"
+    },
+    "gauri@gmail.com": {
+        "Name": "Gauri",
+        "Ph number": 9876543210,
+        "Email": "gauri@gmail.com",
+        "Address": "Indore",
+        "Password": "9876"
+    },
+    "shubham@hotmail.com": {
+        "Name": "Shubham",
+        "Ph number": 1236547890,
+        "Email": "shubham@hotmail.com",
+        "Address": "jaipur",
+        "Password": "4523"
     }
 }

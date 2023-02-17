@@ -1,4 +1,22 @@
 {
-    "2": "Vegan Burger, (1 piece),[INR :320] ",
-    "3": "Truffle Cake, (500gm),[INR :900] "
+    "360": [
+        {
+            "21": {
+                "Food name": "Vegan Burger",
+                "Food quantity": "1 piece",
+                "Food price": 320,
+                "Food discount": 20,
+                "Food stock": 5
+            }
+        },
+        {
+            "46": {
+                "Food name": "Truffle cake",
+                "Food quantity": "500 gm",
+                "Food price": 900,
+                "Food discount": 30,
+                "Food stock": 10
+            }
+        }
+    ]
 }
